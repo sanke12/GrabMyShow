@@ -1,11 +1,11 @@
 # Backend dependencies
-backend/node_modules/
+back-end/node_modules/
 
 # Frontend dependencies
-frontend/node_modules/
+front-end/node_modules/
 
 # React build
-frontend/build/
+front-end/build/
 
 # Logs
 *.log
