@@ -4,9 +4,6 @@ back-end/node_modules/
 # Frontend dependencies
 front-end/node_modules/
 
-# React build
-front-end/build/
-
 # Logs
 *.log
 
